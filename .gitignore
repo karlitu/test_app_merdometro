@@ -31,3 +31,33 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Android Studio generated files
+*.ipr
+*.iws
+
+# Android Studio build output
+*.apk
+*.ap
+*.aab
+*.dex
+*.o
+*.smali
+
+# Android Studio log files
+*.log
+
+# Android Studio cache files
+*.cache
+
+# Android Studio user-specific files
+*.user
+
+# Android Studio local.properties file
+local.properties
+
+# Android Studio gradle.properties file
+gradle.properties
+
+# Android Studio settings.gradle file
+settings.gradle
